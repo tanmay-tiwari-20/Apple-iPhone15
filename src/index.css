@@ -8,6 +8,17 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar{
+  width: 5px;
+  height: 5px;
+  background: #3b3b3b;
+}
+
+::-webkit-scrollbar-thumb{
+  background: #dbd9d9;
+  border-radius: 5px;
+}
+
 body {
   color: white;
   width: 100dvw;
