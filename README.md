@@ -1,8 +1,27 @@
-# React + Vite
+# Apple iPhone 15 Pro Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a recreation of the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects to deliver a rich, interactive experience. The project helped me learn about the challenges of creating 3D models and using Three.js, while following a tutorial from JavaScript Mastery for guidance.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **3D Product Showcase**: Created with Three.js to render and animate 3D models.
+- **Smooth Animations**: Utilized GSAP for animations, including scrolling effects and dynamic content.
+- **Responsive Design**: Ensures optimal viewing on various devices, maintaining Apple's sleek design aesthetics.
+- **Interactive Elements**: Hover effects and animations to enhance the user experience.
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Libraries & Tools**:
+  - **Three.js**: For 3D rendering and animations.
+  - **GSAP (GreenSock Animation Platform)**: For smooth animations and motion effects.
+  - **GSAP ScrollTrigger**: For scroll-based animations and interactions.
+
+## 🚀 Usage
+
+Explore the website to see the 3D animations, interactive elements, and smooth scrolling effects.
+This project is ideal for learning how to implement 3D models and advanced animations in web development.
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
