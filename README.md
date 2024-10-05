@@ -1,4 +1,4 @@
-# Apple iPhone 15 Pro Website Clone
+# Apple iPhone 15 Pro Website
 
 This project is a recreation of the Apple iPhone 15 Pro website, built with React and styled using Tailwind CSS. It incorporates GSAP animations and Three.js 3D effects to deliver a dynamic and interactive user experience. This project helped me learn about the challenges of creating 3D models and using Three.js, following a tutorial from JavaScript Mastery for guidance.
 
